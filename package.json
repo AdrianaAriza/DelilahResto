@@ -4,7 +4,7 @@
   "description": "Proyecto 3 de Acamica - Desarollo web full stack",
   "main": "index.js",
   "scripts": {
-    "start": "node .",
+    "start": "nodemon server/server.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {

@@ -1,6 +1,4 @@
-# DelilahResto
-
-http:...
+# DelilahResto Project
 
 ## Description
 
