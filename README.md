@@ -39,7 +39,7 @@ Before starting, you should have installed:
 
    `npm install`
 
-4. Set database ():
+4. Set database:
 
    `mysql -u <user> -p < delilah_resto.sql`
 
